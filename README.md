@@ -1,2 +1,2 @@
-# EDA
+# Exploratory Data Analysis
 SHARK TANK PROJECT.
